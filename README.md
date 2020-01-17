@@ -11,3 +11,6 @@
 <img width=300 height=588 src="https://user-images.githubusercontent.com/50464577/72560156-34735180-3885-11ea-8d85-ed323575745c.jpeg"/>
 <p>Ao clicar nos dados de um Dev, rediciona para sua página do GitHub</p>
 <img width=300 height=588  src="https://user-images.githubusercontent.com/50464577/72560153-31786100-3885-11ea-8c2a-19809b1e338d.jpeg"/>
+<h1>Licença</h1>
+<a href="https://github.com/matheuskolln/omnistack10/blob/master/LICENSE">MIT</a><br>
+<a href="https://rocketseat.com.br/">Rocketseat</a>
